@@ -2,7 +2,7 @@
 
 <h4 align="left">
   <br>Hello there.<br>
-  <ul class="square">
+  <ul type="square">
     <li>My name is Gabriel, a computer science student currently pursuing knowledge in most technological areas. <em>( due to personal reasons, i prefer to not show much personal information. )</em></li>
     <li>I'm currently in the process of learning various programming languages, including: Javascript, Python, C/C++, Ruby, and others.</li>
     <li>Knowledge in databases: PostgreSQL and MongoDB.</li>
